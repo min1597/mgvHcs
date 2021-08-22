@@ -9,4 +9,4 @@
 > - 주기적 코드 변경에 대한 대응 (상시)
 
 > ## LINK
-> [MGV Self Covid Survey]("https://scs.mgv.kr/","MGV Self Covid Survey")
+> [MGV Self Covid Survey](https://scs.mgv.kr/,"MGV Self Covid Survey")
